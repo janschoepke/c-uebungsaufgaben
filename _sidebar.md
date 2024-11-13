@@ -23,3 +23,6 @@
 * [Aufgabe 22](aufgabe-22.md)
 * [Aufgabe 23](aufgabe-23.md)
 * [Aufgabe 24](aufgabe-24.md)
+* [Aufgabe 25](aufgabe-25.md)
+* [Aufgabe 26](aufgabe-26.md)
+* [Aufgabe 27](aufgabe-27.md)
