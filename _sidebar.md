@@ -1,4 +1,5 @@
-* [Home](/)
+* [Startseite](/)
+* [Codebeispiele](codebeispiele.md)
 * [Aufgabe 1](aufgabe-01.md)
 * [Aufgabe 2](aufgabe-02.md)
 * [Aufgabe 3](aufgabe-03.md)
@@ -26,3 +27,4 @@
 * [Aufgabe 25](aufgabe-25.md)
 * [Aufgabe 26](aufgabe-26.md)
 * [Aufgabe 27](aufgabe-27.md)
+* [Lösungen](loesungen.md)
