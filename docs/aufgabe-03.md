@@ -23,3 +23,14 @@ Ihr Geburtstag: 11.7.1961
 + Hinweis 2 +
 
   Durch die Formatierung "%02d" in der printf-Funktion wird eine Ganzzahl (%d) mit zwei Stellen (2) ausgegeben, während die nicht vorhandenen Stellen mit Nullen (0) aufgefüllt werden.  
+
+
+## Lösungen
+
++ Lösung: Struktogramm +
+  
+  ![Struktogramm für Aufgabe 3](struktogramme/a03.png)
+
++ Lösung: Quellcode +
+  
+  Der Quellcode zur Lösung dieser Aufgabe ist [hier&nbsp;(Lösung A3 &gt;)](https://github.com/janschoepke/c-uebungsaufgaben/blob/main/Code-Beispiele/A03.c) zu finden.

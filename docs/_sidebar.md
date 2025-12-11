@@ -27,4 +27,3 @@
 * [Aufgabe 25](aufgabe-25.md)
 * [Aufgabe 26](aufgabe-26.md)
 * [Aufgabe 27](aufgabe-27.md)
-* [Lösungen](loesungen.md)

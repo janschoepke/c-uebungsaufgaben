@@ -18,3 +18,18 @@ Geben Sie untenstehende Tabelle für das 1x1 durch ein Schleifenkonstrukt aus.
   9  18  27  36  45  54  63  72  81  90 
  10  20  30  40  50  60  70  80  90 100 
 ```
+
+
+## Lösungen
+
++ Allgemeiner Hinweis +
+
+   Bitte verwenden Sie die Lösungen lediglich, um Ihre eigenen Ergebnisse zu verifizieren. Probieren Sie sich zunächst an einer eigenen Implementierung und vergessen Sie nicht, zuerst ein Struktogramm für Ihren Programmablauf zu skizzieren.
+
++ Lösung: Struktogramm +
+  
+  ![Struktogramm für Aufgabe 14](struktogramme/a14.png)
+
++ Lösung: Quellcode +
+  
+  Der Quellcode zur Lösung dieser Aufgabe ist [hier&nbsp;(Lösung A14 &gt;)](https://github.com/janschoepke/c-uebungsaufgaben/blob/main/Code-Beispiele/A14.c) zu finden.

@@ -1,4 +1,4 @@
-# Aufgabe 1: Addition zweier Zahlen
+# Aufgabe 1a: Addition zweier Zahlen
 
 Erforderliche Kenntnisse: Operatoren, Operanden
 
@@ -14,6 +14,20 @@ Versuchen Sie einen C-Programmcode für die Addition zweier vordefinierter Varia
 1 + 2 = 3
 ```
 
+## Lösungen
+
++ Allgemeiner Hinweis +
+
+   Bitte verwenden Sie die Lösungen lediglich, um Ihre eigenen Ergebnisse zu verifizieren. Probieren Sie sich zunächst an einer eigenen Implementierung und vergessen Sie nicht, zuerst ein Struktogramm für Ihren Programmablauf zu skizzieren.
+
++ Lösung: Struktogramm +
+  
+  ![Struktogramm für Aufgabe 1a](struktogramme/a01a.png)
+
++ Lösung: Quellcode +
+  
+  Der Quellcode zur Lösung dieser Aufgabe ist [hier&nbsp;(Lösung A1a &gt;)](https://github.com/janschoepke/c-uebungsaufgaben/blob/main/Code-Beispiele/A01a.c) zu finden.
+
 
 ## Aufgabe 1b: Mit Nutzerinteraktion
 
@@ -27,3 +41,14 @@ Bitte geben Sie die zweite Ganzzahl ein: 6
 
 4 + 6 = 10
 ```
+
+## Lösungen
+
++ Lösung: Struktogramm +
+  
+  ![Struktogramm für Aufgabe 1b](struktogramme/a01b.png)
+
++ Lösung: Quellcode +
+  
+  Der Quellcode zur Lösung dieser Aufgabe ist [hier&nbsp;(Lösung A1b &gt;)](https://github.com/janschoepke/c-uebungsaufgaben/blob/main/Code-Beispiele/A01b.c) zu finden.
+

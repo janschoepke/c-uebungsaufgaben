@@ -28,3 +28,25 @@ Lassen Sie die Anzahl der SMSen mit scanf einlesen und bauen Sie das Ganze in ei
 Bitte geben Sie die Anzahl der SMS ein: 217
 217 SMS: 10 Euro und 85 Cent
 ```
+
+## Lösungen
+
++ Allgemeiner Hinweis +
+
+   Bitte verwenden Sie die Lösungen lediglich, um Ihre eigenen Ergebnisse zu verifizieren. Probieren Sie sich zunächst an einer eigenen Implementierung und vergessen Sie nicht, zuerst ein Struktogramm für Ihren Programmablauf zu skizzieren.
+
++ Lösung: Struktogramm 11a +
+  
+  ![Struktogramm für Aufgabe 11a](struktogramme/a11a.png)
+
++ Lösung: Quellcode +
+  
+  Der Quellcode zur Lösung dieser Aufgabe ist [hier&nbsp;(Lösung A11a &gt;)](https://github.com/janschoepke/c-uebungsaufgaben/blob/main/Code-Beispiele/A11a.c) zu finden.
+
++ Lösung: Struktogramm 11b +
+  
+  ![Struktogramm für Aufgabe 11a](struktogramme/a11b.png)
+
++ Lösung: Quellcode +
+  
+  Der Quellcode zur Lösung dieser Aufgabe ist [hier&nbsp;(Lösung A11b &gt;)](https://github.com/janschoepke/c-uebungsaufgaben/blob/main/Code-Beispiele/A11b.c) zu finden.

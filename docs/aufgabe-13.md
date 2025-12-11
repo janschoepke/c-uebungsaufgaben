@@ -56,3 +56,16 @@ Bitte wählen Sie eine Option: 4
 Auf Wiedersehen!
 ```
 
+## Lösungen
+
++ Allgemeiner Hinweis +
+
+   Bitte verwenden Sie die Lösungen lediglich, um Ihre eigenen Ergebnisse zu verifizieren. Probieren Sie sich zunächst an einer eigenen Implementierung und vergessen Sie nicht, zuerst ein Struktogramm für Ihren Programmablauf zu skizzieren.
+
++ Lösung: Struktogramm +
+  
+  ![Struktogramm für Aufgabe 13](struktogramme/a13.png)
+
++ Lösung: Quellcode +
+  
+  Der Quellcode zur Lösung dieser Aufgabe ist [hier&nbsp;(Lösung A13 &gt;)](https://github.com/janschoepke/c-uebungsaufgaben/blob/main/Code-Beispiele/A13.c) zu finden.

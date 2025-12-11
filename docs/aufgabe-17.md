@@ -18,3 +18,17 @@ Diese Aufgabe ist eine Optimierung der Implementierung der Aufgaben "1x1-Tabelle
   9  18  27  36  45  54  63  72  81  90 
  10  20  30  40  50  60  70  80  90 100 
 ```
+
+## Lösungen
+
++ Allgemeiner Hinweis +
+
+   Bitte verwenden Sie die Lösungen lediglich, um Ihre eigenen Ergebnisse zu verifizieren. Probieren Sie sich zunächst an einer eigenen Implementierung und vergessen Sie nicht, zuerst ein Struktogramm für Ihren Programmablauf zu skizzieren.
+
++ Lösung: Struktogramm +
+  
+  ![Struktogramm für Aufgabe 17](struktogramme/a17.png)
+
++ Lösung: Quellcode +
+  
+  Der Quellcode zur Lösung dieser Aufgabe ist [hier&nbsp;(Lösung A17 &gt;)](https://github.com/janschoepke/c-uebungsaufgaben/blob/main/Code-Beispiele/A17.c) zu finden.

@@ -23,3 +23,14 @@ Ihre Telefonnummer: 01234 / 1234567
 + Hinweis 2 +
 
   Im deutschsprachigen Raum starten die Vorwahlen für Festnetz- und Mobilrufnummern mit einer 0. Diese könnten wir statisch ausgeben.
+
+
+## Lösungen
+
++ Lösung: Struktogramm +
+  
+  ![Struktogramm für Aufgabe 2](struktogramme/a02.png)
+
++ Lösung: Quellcode +
+  
+  Der Quellcode zur Lösung dieser Aufgabe ist [hier&nbsp;(Lösung A2 &gt;)](https://github.com/janschoepke/c-uebungsaufgaben/blob/main/Code-Beispiele/A02.c) zu finden.

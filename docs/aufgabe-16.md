@@ -18,3 +18,17 @@ Ergänzen Sie das Programm zur Befüllung eines Felds mit der 1x1-Tabelle um ein
   9  18  27  36  45  54  63  72  81  90 
  10  20  30  40  50  60  70  80  90 100 
 ```
+
+## Lösungen
+
++ Allgemeiner Hinweis +
+
+   Bitte verwenden Sie die Lösungen lediglich, um Ihre eigenen Ergebnisse zu verifizieren. Probieren Sie sich zunächst an einer eigenen Implementierung und vergessen Sie nicht, zuerst ein Struktogramm für Ihren Programmablauf zu skizzieren.
+
++ Lösung: Struktogramm +
+  
+  ![Struktogramm für Aufgabe 16](struktogramme/a16.png)
+
++ Lösung: Quellcode +
+  
+  Der Quellcode zur Lösung dieser Aufgabe ist [hier&nbsp;(Lösung A16 &gt;)](https://github.com/janschoepke/c-uebungsaufgaben/blob/main/Code-Beispiele/A16.c) zu finden.

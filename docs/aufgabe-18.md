@@ -35,3 +35,16 @@ Folgende Zahlenpyramide soll auf dem Bildschirm ausgegeben werden. Entwickeln Si
   Jetzt werden in jeder Zeile die abwärts und wieder aufwärts zählenden Ziffern hinzugefügt.
 
 
+## Lösungen
+
++ Allgemeiner Hinweis +
+
+   Bitte verwenden Sie die Lösungen lediglich, um Ihre eigenen Ergebnisse zu verifizieren. Probieren Sie sich zunächst an einer eigenen Implementierung und vergessen Sie nicht, zuerst ein Struktogramm für Ihren Programmablauf zu skizzieren.
+
++ Lösung: Struktogramm +
+  
+  ![Struktogramm für Aufgabe 18](struktogramme/a18.png)
+
++ Lösung: Quellcode +
+  
+  Der Quellcode zur Lösung dieser Aufgabe ist [hier&nbsp;(Lösung A18 &gt;)](https://github.com/janschoepke/c-uebungsaufgaben/blob/main/Code-Beispiele/A18.c) zu finden.

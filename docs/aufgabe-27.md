@@ -12,3 +12,25 @@ Setzen Sie diese Anforderung um, indem Sie die Zeichenketten für die Monate inn
 
 Setzen Sie diese Anforderung um, indem Sie die Zeichenketten für die Monate über eine Enumeration auflösen. 
 
+## Lösungen
+
++ Allgemeiner Hinweis +
+
+   Bitte verwenden Sie die Lösungen lediglich, um Ihre eigenen Ergebnisse zu verifizieren. Probieren Sie sich zunächst an einer eigenen Implementierung und vergessen Sie nicht, zuerst ein Struktogramm für Ihren Programmablauf zu skizzieren.
+
++ Lösung: Struktogramm 27a +
+  
+  ![Struktogramm für Aufgabe 27a](struktogramme/a27a.png)
+
++ Lösung: Quellcode 27a +
+  
+  Der Quellcode zur Lösung dieser Aufgabe ist [hier&nbsp;(Lösung A27a &gt;)](https://github.com/janschoepke/c-uebungsaufgaben/blob/main/Code-Beispiele/A27a.c) zu finden.
+
++ Lösung: Struktogramm 27b +
+
+    ![Struktogramm für Aufgabe 27b](struktogramme/a27b.png)
+
++ Lösung: Quellcode 27a +
+  
+  Der Quellcode zur Lösung dieser Aufgabe ist [hier&nbsp;(Lösung A27b &gt;)](https://github.com/janschoepke/c-uebungsaufgaben/blob/main/Code-Beispiele/A27b.c) zu finden.
+
